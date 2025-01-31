@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/jonowrenn/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/jonowrenn/LeetHub/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jonowrenn/LeetHub/tree/master/0643-maximum-average-subarray-i) |
+| [0792-binary-search](https://github.com/jonowrenn/LeetHub/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/jonowrenn/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jonowrenn/LeetHub/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/jonowrenn/LeetHub/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/jonowrenn/LeetHub/tree/master/0374-guess-number-higher-or-lower) |
+| [0792-binary-search](https://github.com/jonowrenn/LeetHub/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/jonowrenn/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 ## Interactive
 |  |
