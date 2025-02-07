@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jonowrenn/LeetHub/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/jonowrenn/LeetHub/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/jonowrenn/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jonowrenn/LeetHub/tree/master/0283-move-zeroes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jonowrenn/LeetHub/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/jonowrenn/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jonowrenn/LeetHub/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jonowrenn/LeetHub/tree/master/1798-max-number-of-k-sum-pairs) |
