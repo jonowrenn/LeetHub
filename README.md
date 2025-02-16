@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/jonowrenn/LeetHub/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/jonowrenn/LeetHub/tree/master/0011-container-with-most-water) |
+| [0118-pascals-triangle](https://github.com/jonowrenn/LeetHub/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/jonowrenn/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/jonowrenn/LeetHub/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/jonowrenn/LeetHub/tree/master/0334-increasing-triplet-subsequence) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/jonowrenn/LeetHub/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/jonowrenn/LeetHub/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/jonowrenn/LeetHub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
