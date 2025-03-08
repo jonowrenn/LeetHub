@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/jonowrenn/LeetHub/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/jonowrenn/LeetHub/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/jonowrenn/LeetHub/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/jonowrenn/LeetHub/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/jonowrenn/LeetHub/tree/master/3447-clear-digits) |
 ## Prefix Sum
 |  |
@@ -114,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jonowrenn/LeetHub/tree/master/0020-valid-parentheses) |
+| [2470-removing-stars-from-a-string](https://github.com/jonowrenn/LeetHub/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/jonowrenn/LeetHub/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [2470-removing-stars-from-a-string](https://github.com/jonowrenn/LeetHub/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/jonowrenn/LeetHub/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
