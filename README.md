@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jonowrenn/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/jonowrenn/LeetHub/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/jonowrenn/LeetHub/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/jonowrenn/LeetHub/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/jonowrenn/LeetHub/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/jonowrenn/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/jonowrenn/LeetHub/tree/master/1319-unique-number-of-occurrences) |
@@ -115,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jonowrenn/LeetHub/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/jonowrenn/LeetHub/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/jonowrenn/LeetHub/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/jonowrenn/LeetHub/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/jonowrenn/LeetHub/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/jonowrenn/LeetHub/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/jonowrenn/LeetHub/tree/master/3447-clear-digits) |
 ## Linked List
