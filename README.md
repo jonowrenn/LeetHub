@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/jonowrenn/LeetHub/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/jonowrenn/LeetHub/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/jonowrenn/LeetHub/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/jonowrenn/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/jonowrenn/LeetHub/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/jonowrenn/LeetHub/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/jonowrenn/LeetHub/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jonowrenn/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/jonowrenn/LeetHub/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/jonowrenn/LeetHub/tree/master/0443-string-compression) |
+| [1019-squares-of-a-sorted-array](https://github.com/jonowrenn/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jonowrenn/LeetHub/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/jonowrenn/LeetHub/tree/master/1894-merge-strings-alternately) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/jonowrenn/LeetHub/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/jonowrenn/LeetHub/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/jonowrenn/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [1019-squares-of-a-sorted-array](https://github.com/jonowrenn/LeetHub/tree/master/1019-squares-of-a-sorted-array) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jonowrenn/LeetHub/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
 |  |
