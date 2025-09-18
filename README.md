@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jonowrenn/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/jonowrenn/LeetHub/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/jonowrenn/LeetHub/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/jonowrenn/LeetHub/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/jonowrenn/LeetHub/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/jonowrenn/LeetHub/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/jonowrenn/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/jonowrenn/LeetHub/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/jonowrenn/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/jonowrenn/LeetHub/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Sliding Window
